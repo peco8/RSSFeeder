@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d6aed53-988e-44a4-bd72-e445e1a682a6" name="Default" comment="" />
+    <ignored path="rss2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="rss2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="inputSetting.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/settings/inputSetting.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30857143">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/config/locale.php" />
+        <option value="$PROJECT_DIR$/settings/rss_ouput.php" />
+        <option value="$PROJECT_DIR$/handlers/fetcher.php" />
+        <option value="$PROJECT_DIR$/handlers/render.php" />
+        <option value="$PROJECT_DIR$/handlers/logic.php" />
+        <option value="$PROJECT_DIR$/handlers/conditionHandler.php" />
+        <option value="$PROJECT_DIR$/configs/locale.php" />
+        <option value="$PROJECT_DIR$/traits/conditionTrait.php" />
+        <option value="$PROJECT_DIR$/traits/fetchRuleTrait.php" />
+        <option value="$PROJECT_DIR$/handlers/renderHandler.php" />
+        <option value="$PROJECT_DIR$/helpers/fetchRuleHelper.php" />
+        <option value="$PROJECT_DIR$/settings/outputSetting.php" />
+        <option value="$PROJECT_DIR$/settings/inputSetting.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/handlers/fetchHandler.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rss2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rss2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rss2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="settings" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rss2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="handlers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rss2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="configs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="FullScreen" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/class" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rss2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rss2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rss2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rss2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rss2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rss2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="rss2" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940476" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/handlers/fetchHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding>
+            <marker date="1438652192000" expanded="false" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" Class FetchFromUrlService ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @var DOMDocument ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @var array ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @var ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @param DOMDocument $domDoc ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @param $url ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return int ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @var FetchInterface ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @param FetchInterface $fetchService ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlers/renderHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="27" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding>
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlers/renderHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.102857">
+          <caret line="181" column="6" selection-start-line="181" selection-start-column="6" selection-end-line="181" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_PLUGINS_DIR$/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/dom_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.58285713">
+          <caret line="365" column="9" selection-start-line="365" selection-start-column="9" selection-end-line="365" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/helpers/fetchRuleHelper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.5085714">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/configs/locale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26285714">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+          <folding>
+            <marker date="1438487783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438487783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438487783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438487783000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438487783000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlers/renderHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.85714287">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/outputSetting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37714285">
+          <caret line="22" column="6" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+          <folding>
+            <marker date="1438652082000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652082000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652082000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652082000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.0171429">
+          <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
+          <folding>
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652122000" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/handlers/fetchHandler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.7314286">
+          <caret line="105" column="39" selection-start-line="105" selection-start-column="39" selection-end-line="105" selection-end-column="39" />
+          <folding>
+            <marker date="1438652192000" expanded="false" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" Class FetchFromUrlService ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @var DOMDocument ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @var array ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @var ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @param DOMDocument $domDoc ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @param $url ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return int ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="//..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @var FetchInterface ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @param FetchInterface $fetchService ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder=" @return mixed ..." />
+            <marker date="1438652192000" expanded="true" signature="-1:-1" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings/inputSetting.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30857143">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
